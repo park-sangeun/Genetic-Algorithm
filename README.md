@@ -1,7 +1,9 @@
 # 인공지능 프로젝트 #1_Genetic Algorithm
 >&lt;
+인공지능 프로젝트 #1인 최적해를 찾기 위한 비선형 최적화 기법의 활용 및 최적 Tree 설계이다.
+
 tsp_genetic.py 코드를 실행하면 유전 알고리즘만 적용
-tsp_genetic_tree.py 코드를 실행하면 유전 알고리즘 + 휴리스틱 알고리즘 적용
+tsp_genetic_tree.py 코드를 실행하면 유전 알고리즘 + heuristic 적용
 
 heuristic 방식 사용 시 비약적인 성능 증가
 
